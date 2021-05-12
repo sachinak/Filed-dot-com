@@ -3,7 +3,7 @@ Assignment for filed dot com
 
 Requirements:
 
-asgiref==3.3.4 
+asgiref==3.3.4 \n
 Django==3.2.2 
 django-mysql==3. 11.1
 djangorestframework==3.12.4
